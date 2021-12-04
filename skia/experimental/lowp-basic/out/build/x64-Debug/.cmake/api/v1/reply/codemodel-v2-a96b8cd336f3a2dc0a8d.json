@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lowp_basic",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bilerp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bilerp-Debug-607b236544a745823a96.json",
+					"name" : "bilerp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lerp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lerp-Debug-240f005fa78f1ddbf10a.json",
+					"name" : "lerp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lowp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lowp-Debug-9a2e1f86e10e7f62f97a.json",
+					"name" : "lowp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "S:/skia_source/skia/experimental/lowp-basic/out/build/x64-Debug",
+		"source" : "S:/skia_source/skia/experimental/lowp-basic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
